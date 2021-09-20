@@ -46,4 +46,4 @@ diver に掲載のテキストに書かれているものを使うこととし�
 新しいブランチを作り、その上で作業を行い、ご自身のリポジトリにpull requestを出してください(clone元にpull requestを出さないように注意ください)。
 
 
-team sunagawa
+team sunagawa2
